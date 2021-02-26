@@ -8,3 +8,7 @@ curl https://cli-assets.heroku.com/install.sh | sh
 heroku --version
 
 heroku login
+
+npm init -y
+
+npm install express
